@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **simple-chat-app**
 
-- 💬 Ask me about **React JS,Node JS,Next JS**
+- 💬 Ask me about **React JS,Node JS**
 
 - 📫 How to reach me **mdkabiruddin41372@gmail.com**
 
