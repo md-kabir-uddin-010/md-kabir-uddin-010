@@ -9,6 +9,7 @@ I'm md kabir uddin from Bangladesh, I do content on Design and Development.I rea
 * Node JS
 * Express JS 
 * MongoDB
+* MySQL
 * JavaScript 
 * HTML / CSS
 
