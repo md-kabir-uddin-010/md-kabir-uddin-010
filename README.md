@@ -1,22 +1,23 @@
 <!-- ![Design And Development]() -->
 
-# Md kabir uddin
-I'm md kabir uddin from Bangladesh, I do content on Design and Development.I really enjoy learning languages and frameworks like  JavaScript and React .I also enjoy learning  and coding.
+# Md Kabir Uddin
+I'm md kabir uddin from Bangladesh, I do content on Design and Development. I really enjoy learning languages and frameworks like  JavaScript and React. I also enjoy learning  and coding.
 
 ## Skills and Experience: 
 * React JS
 * Next JS
+* Nest JS
 * Node JS
 * Express JS 
 * MongoDB
 * MySQL
 * JavaScript 
 * HTML / CSS
-* Bootstarp
-* Tailwind css
+* Bootstrap
+* Tailwind CSS
 * Material-UI
 
-## Examples And Wrok
+## Examples And Work
 - 🔭 I’m currently working on **simple-chat-app**
 
 ## About me
